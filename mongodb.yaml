@@ -1,0 +1,13 @@
+Migration:
+  Host:
+  Port:
+  UserName:
+  Password:
+  Databases: []
+Generate:
+  Database:
+  Collection: 
+  Files:
+    ID : OBJECTID
+    Name : STRING
+    Phone : INT
